@@ -1,3 +1,9 @@
+base-files (2019.05deepin) stable; urgency=medium
+
+  * update 15.5 sp3
+
+ -- Deepin Packages Builder <zs@deepin.com>  Sun, 12 May 2019 13:45:44 +0800
+
 base-files (2018.11deepin) unstable; urgency=medium
 
   * update 15.5 sp2
