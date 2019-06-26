@@ -1,20 +1,44 @@
-base-files (2019.05deepin) stable; urgency=medium
+base-files (2019.5+comsta) stable; urgency=medium
 
-  * update 15.5 sp3
+  * update 15.10.1
 
- -- Deepin Packages Builder <zs@deepin.com>  Sun, 12 May 2019 13:45:44 +0800
+ -- Deepin Packages Builder <zs@deepin.com>  Sun, 12 May 2019 13:20:59 +0800
 
-base-files (2018.11deepin) unstable; urgency=medium
+base-files (2019.4+comsta) stable; urgency=medium
 
-  * update 15.5 sp2
+  * update 15.10
 
- -- Deepin Packages Builder <zs@deepin.com>  Thu, 13 Dec 2018 10:59:03 +0800
+ -- Deepin Packages Builder <zs@deepin.com>  Wed, 03 Apr 2019 21:04:45 +0800
 
-base-files (2018.10deepin) unstable; urgency=medium
+base-files (2019.3+comsta) stable; urgency=medium
 
-  * update for 15.5 professional
+  * Rebuild　instable 
 
- -- Deepin Packages Builder <zs@deepin.com>  Thu, 13 Sep 2018 09:41:47 +0800
+ -- Deepin Packages Builder <zs@deepin.com>  Thu, 14 Mar 2019 10:40:02 +0800
+
+base-files (2019.3) unstable; urgency=medium
+
+  * update to 15.9.2
+
+ -- Deepin Packages Builder <zs@deepin.com>  Wed, 06 Mar 2019 09:56:04 +0800
+
+base-files (2019.2) unstable; urgency=medium
+
+  * update to 15.9.1
+
+ -- Deepin Packages Builder <zs@deepin.com>  Mon, 28 Jan 2019 16:11:54 +0800
+
+base-files (2019.1) unstable; urgency=medium
+
+  * update to 15.9
+
+ -- Deepin Packages Builder <zs@deepin.com>  Thu, 03 Jan 2019 13:58:34 +0800
+
+base-files (2018.10) unstable; urgency=medium
+
+  * update to 15.8 
+
+ -- Deepin Packages Builder <zs@deepin.com>  Tue, 30 Oct 2018 14:53:44 +0800
 
 base-files (2018.08deepin) unstable; urgency=medium
 
