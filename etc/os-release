@@ -1,7 +1,7 @@
-PRETTY_NAME="uos 20"
-NAME="uos"
+PRETTY_NAME="Deepin 20"
+NAME="Deepin"
 VERSION_ID="20"
 VERSION="20"
-ID=uos
+ID=Deepin
 HOME_URL="https://www.chinauos.com/"
-BUG_REPORT_URL="http://bbs.chinauos.com"
+BUG_REPORT_URL="https://bbs.deepin.org/"
