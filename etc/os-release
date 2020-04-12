@@ -3,5 +3,5 @@ NAME="Deepin"
 VERSION_ID="20 Beta"
 VERSION="20 Beta"
 ID=Deepin
-HOME_URL="https://www.chinauos.com/"
+HOME_URL="https://bbs.deepin.org/"
 BUG_REPORT_URL="https://bbs.deepin.org/"
