@@ -1,7 +1,7 @@
-PRETTY_NAME="UOS Home 20 Alpha"
+PRETTY_NAME="UOS 20 Home"
 NAME="uos"
-VERSION_ID="20 Alpha"
-VERSION="20 Alpha"
+VERSION_ID="20 Home"
+VERSION="20 Home"
 ID=uos
 HOME_URL="https://www.chinauos.com/"
 BUG_REPORT_URL="http://bbs.chinauos.com"
