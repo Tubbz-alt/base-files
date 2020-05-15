@@ -1,7 +1,8 @@
-PRETTY_NAME="UOS Professional 20 SP1"
-NAME="uos"
-VERSION_ID="Professional 20 SP1"
-VERSION="Professional 20 SP1"
-ID=uos
+PRETTY_NAME="UOS Server Enterprise 20 sp2"
+NAME="UOS Server Enterprise"
+VERSION_ID="20 sp2"
+VERSION="20 sp2"
+ID=UOSServerEnterprise
 HOME_URL="https://www.chinauos.com/"
 BUG_REPORT_URL="http://bbs.chinauos.com"
+VERSION_CODENAME=fou
