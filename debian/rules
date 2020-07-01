@@ -12,7 +12,7 @@ ifeq ($(DEB_HOST_GNU_SYSTEM),gnu)
   OSNAME=GNU/Hurd
 endif
 
-VENDORFILE = deepin
+VENDORFILE = uos
 
 VERSION = $(shell cat etc/deepin_version)
 
