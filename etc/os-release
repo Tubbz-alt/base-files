@@ -1,7 +1,7 @@
-PRETTY_NAME="UOS Professional 20 SP1"
+PRETTY_NAME="UOS 20"
 NAME="uos"
-VERSION_ID="Professional 20 SP1"
-VERSION="Professional 20 SP1"
+VERSION_ID="20"
+VERSION="20"
 ID=uos
 HOME_URL="https://www.chinauos.com/"
 BUG_REPORT_URL="http://bbs.chinauos.com"
