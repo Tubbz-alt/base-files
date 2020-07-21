@@ -1,7 +1,7 @@
-PRETTY_NAME="UOS 20"
-NAME="uos"
+PRETTY_NAME="UnionTech OS 20"
+NAME="UnionTech OS"
 VERSION_ID="20"
 VERSION="20"
-ID=uos
+ID=UnionTech OS
 HOME_URL="https://www.chinauos.com/"
 BUG_REPORT_URL="http://bbs.chinauos.com"
