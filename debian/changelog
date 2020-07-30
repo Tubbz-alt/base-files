@@ -1,3 +1,10 @@
+base-files (2020.07.30-professional) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * 
+
+ -- Deepin Packages Builder <aaa@aaa-PC>  Thu, 30 Jul 2020 18:01:02 +0800
+
 base-files (2019.05deepin) stable; urgency=medium
 
   * update 15.5 sp3
