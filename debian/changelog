@@ -1,4 +1,4 @@
-base-files (2020.08.03-professional) unstable; urgency=medium
+base-files (2020.08.03+dde) unstable; urgency=medium
 
   * Fixed display of codename.
   * 
