@@ -1,3 +1,10 @@
+base-files (2020.08.03-professional) unstable; urgency=medium
+
+  * Fixed display of codename.
+  * 
+
+ -- Deepin Packages Builder <hufeng@uniontech.com>  Mon, 03 Aug 2020 09:57:45 +0800
+
 base-files (2020.07.30-professional-2) unstable; urgency=medium
 
   * 

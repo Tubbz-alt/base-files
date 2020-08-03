@@ -5,3 +5,4 @@ VERSION="20"
 ID=uos
 HOME_URL="https://www.chinauos.com/"
 BUG_REPORT_URL="http://bbs.chinauos.com"
+VERSION_CODENAME=eagle
