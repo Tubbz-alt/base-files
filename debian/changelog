@@ -1,3 +1,10 @@
+base-files (2020.08.13+dde) unstable; urgency=medium
+
+  * Change PRETTY_NAME in os-release 
+  * 
+
+ -- Deepin Packages Builder <fujiaheng@uniontech.com>  Thu, 13 Aug 2020 13:55:43 +0800
+
 base-files (2020.08.05) unstable; urgency=medium
 
   * Debian 10.5 update
